@@ -1,0 +1,16 @@
+.container-propuestalaboral{
+    background-color: #818181;
+    width: 500px;
+    border-radius: 15   px;
+}
+label{
+    color: black;
+}
+.txtText{
+    width: 300px;
+    height: 30PX;
+    border-radius: 8PX;
+}
+textarea{
+    border-radius: 10px;
+}
